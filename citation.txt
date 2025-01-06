@@ -3,7 +3,6 @@
     journal = "Nature Communications",
     number = "1",
     pages = "2506",
-    publisher = "Nature Publishing Group UK London",
     title = "{Higher-order Granger reservoir computing: simultaneously achieving scalable complex structures inference and accurate dynamics prediction}",
     volume = "15",
     year = "2024"
